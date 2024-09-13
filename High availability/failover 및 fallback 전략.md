@@ -1,4 +1,4 @@
-## 페일오버/페일백 전략 (Failover/Failback Strategies)
+## 페일오버/페일백 전략 (Failover/Fallback Strategies)
 
 ### 1. 개요
 
